@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class04.Strings", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class04.Exercise", "SEDC.Oop.Class04.Exercise\SEDC.Oop.Class04.Exercise.csproj", "{D3959651-CEFE-4B7A-8D27-B959098AB76C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class04.Dates", "SEDC.Oop.Class04.Dates\SEDC.Oop.Class04.Dates.csproj", "{845D7D00-E620-4DA3-B9AA-3CCCF7917FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class04.Vezhba", "SEDC.Oop.Class04.Vezhba\SEDC.Oop.Class04.Vezhba.csproj", "{0E6D5DC5-705D-4C2D-9875-63EBCC61FF73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{D3959651-CEFE-4B7A-8D27-B959098AB76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3959651-CEFE-4B7A-8D27-B959098AB76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3959651-CEFE-4B7A-8D27-B959098AB76C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845D7D00-E620-4DA3-B9AA-3CCCF7917FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845D7D00-E620-4DA3-B9AA-3CCCF7917FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845D7D00-E620-4DA3-B9AA-3CCCF7917FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845D7D00-E620-4DA3-B9AA-3CCCF7917FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6D5DC5-705D-4C2D-9875-63EBCC61FF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6D5DC5-705D-4C2D-9875-63EBCC61FF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6D5DC5-705D-4C2D-9875-63EBCC61FF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6D5DC5-705D-4C2D-9875-63EBCC61FF73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
