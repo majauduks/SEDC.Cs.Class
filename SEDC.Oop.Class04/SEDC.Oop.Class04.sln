@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class04.Methods", "SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.csproj", "{52CE39E2-688F-4A1F-9679-52AEF29958C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.Oop.Class04.Methods", "SEDC.Oop.Class04.Methods\SEDC.Oop.Class04.Methods.csproj", "{52CE39E2-688F-4A1F-9679-52AEF29958C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class04.Exercise1", "SEDC.Oop.Class04.Exercise1\SEDC.Oop.Class04.Exercise1.csproj", "{1BCEC6F4-B072-4309-BCF6-1F491D8D4A59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDC.Oop.Class04.Exercise1", "SEDC.Oop.Class04.Exercise1\SEDC.Oop.Class04.Exercise1.csproj", "{1BCEC6F4-B072-4309-BCF6-1F491D8D4A59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class04.Strings", "SEDC.Oop.Class04.Strings\SEDC.Oop.Class04.Strings.csproj", "{DE066958-2E85-4CC9-928A-3F4EABD4BE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.Oop.Class04.Exercise", "SEDC.Oop.Class04.Exercise\SEDC.Oop.Class04.Exercise.csproj", "{D3959651-CEFE-4B7A-8D27-B959098AB76C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{1BCEC6F4-B072-4309-BCF6-1F491D8D4A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BCEC6F4-B072-4309-BCF6-1F491D8D4A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BCEC6F4-B072-4309-BCF6-1F491D8D4A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE066958-2E85-4CC9-928A-3F4EABD4BE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE066958-2E85-4CC9-928A-3F4EABD4BE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE066958-2E85-4CC9-928A-3F4EABD4BE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE066958-2E85-4CC9-928A-3F4EABD4BE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3959651-CEFE-4B7A-8D27-B959098AB76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3959651-CEFE-4B7A-8D27-B959098AB76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3959651-CEFE-4B7A-8D27-B959098AB76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3959651-CEFE-4B7A-8D27-B959098AB76C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
